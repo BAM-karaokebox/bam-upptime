@@ -11,7 +11,7 @@ sites:
   - name: TSL Pro
     url: https://www.tslkaraoke.com/
   - name: TSL Pro (staging)
-    url: https://staging.tslkaraoke.co
+    url: https://staging.tslkaraoke.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
