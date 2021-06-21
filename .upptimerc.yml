@@ -7,8 +7,12 @@ sites:
     url: https://www.bam-karaokebox.com
   - name: BAM Karaoke To Go
     url: https://www.bam-karaoketogo.com
+  - name: BAM Karaoke Online
+    url: https://www.bam-karaokeonline.com
   - name: BAM Karaoke Online (staging)
     url: https://www.app.staging.bam-karaokeonline.com/
+  - name: The Songs Laboratory
+    url: https://www.thesongslaboratory.com/
   - name: TSL Pro
     url: https://www.tslkaraoke.com/
   - name: TSL Pro (staging)
