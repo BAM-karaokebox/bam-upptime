@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.88%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.81%",
     "time": 3082,
     "timeDay": 2603,
-    "timeWeek": 2960,
+    "timeWeek": 2853,
     "timeMonth": 2829,
     "timeYear": 3082,
     "dailyMinutesDown": {
@@ -87,9 +87,9 @@
     "url": "https://www.thesongslaboratory.com/",
     "icon": "https://favicons.githubusercontent.com/www.thesongslaboratory.com",
     "slug": "the-songs-laboratory",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -98,7 +98,9 @@
     "timeWeek": 365,
     "timeMonth": 422,
     "timeYear": 443,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-21": 0
+    }
   },
   {
     "name": "TSL Pro",
