@@ -27,9 +27,9 @@
     "url": "https://www.bam-karaoketogo.com",
     "icon": "https://favicons.githubusercontent.com/www.bam-karaoketogo.com",
     "slug": "bam-karaoke-to-go",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.72%",
@@ -39,6 +39,7 @@
     "timeMonth": 708,
     "timeYear": 912,
     "dailyMinutesDown": {
+      "2021-10-08": 0,
       "2021-09-23": 8,
       "2021-06-17": 91,
       "2021-06-16": 1,
@@ -52,9 +53,9 @@
     "url": "https://www.bam-karaokeonline.com",
     "icon": "https://favicons.githubusercontent.com/www.bam-karaokeonline.com",
     "slug": "bam-karaoke-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
@@ -64,6 +65,7 @@
     "timeMonth": 106,
     "timeYear": 272,
     "dailyMinutesDown": {
+      "2021-10-08": 0,
       "2021-09-23": 8
     }
   },
