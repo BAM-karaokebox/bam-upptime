@@ -10,13 +10,21 @@ sites:
   - name: BAM Karaoke Online
     url: https://www.bam-karaokeonline.com
   - name: BAM Karaoke Online (staging)
-    url: https://www.app.staging.bam-karaokeonline.com/
+    url: https://www.app.staging.bam-karaokeonline.com
   - name: The Songs Laboratory
-    url: https://www.thesongslaboratory.com/
+    url: https://www.thesongslaboratory.com
   - name: TSL Pro
-    url: https://www.tslkaraoke.com/
+    url: https://www.tslkaraoke.com
   - name: TSL Pro (staging)
     url: https://www.app.staging.tslkaraoke.com
+  - name: TSL/BKO Backend API
+    url: https://backend.api.bam-karaokeonline.com
+  - name: TSL/BKO Backend API (staging)
+    url: https://backend.api.staging.bam-karaokeonline.com
+  - name: TSL/BKO Liana API
+    url: https://forest.api.bam-karaokeonline.com
+  - name: TSL/BKO Liana API (staging)
+    url: https://forest.api.staging.bam-karaokeonline.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
