@@ -25,6 +25,8 @@ sites:
     url: https://forest.api.bam-karaokeonline.com
   - name: TSL/BKO Liana API (staging)
     url: https://forest.api.staging.bam-karaokeonline.com
+  - name: PallyCon Multi-DRM Licence Manager
+    url: https://license.pallycon.com/ri/licenseManager.do
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
