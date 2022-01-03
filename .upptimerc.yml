@@ -5,6 +5,8 @@ user-agent: BAM-karaokebox
 sites:
   - name: BAM Karaoke Box (web)
     url: https://www.bam-karaokebox.com
+  - name: BAM Karaoke Box Backend
+    url: https://backend.bam-karaokebox.com
   - name: BAM Karaoke To Go
     url: https://www.bam-karaoketogo.com
   - name: BAM Karaoke Online
