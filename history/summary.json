@@ -276,18 +276,20 @@
     "url": "https://backend.api.staging.bam-karaokeonline.com",
     "icon": "https://favicons.githubusercontent.com/backend.api.staging.bam-karaokeonline.com",
     "slug": "tsl-bko-backend-api-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 527,
-    "timeDay": 480,
-    "timeWeek": 519,
-    "timeMonth": 522,
-    "timeYear": 527,
-    "dailyMinutesDown": {}
+    "time": 529,
+    "timeDay": 559,
+    "timeWeek": 534,
+    "timeMonth": 525,
+    "timeYear": 529,
+    "dailyMinutesDown": {
+      "2022-01-11": 0
+    }
   },
   {
     "name": "TSL/BKO Liana API",
