@@ -258,19 +258,19 @@
     "url": "https://backend.api.bam-karaokeonline.com",
     "icon": "https://favicons.githubusercontent.com/backend.api.bam-karaokeonline.com",
     "slug": "tsl-bko-backend-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 891,
-    "timeDay": 10588,
-    "timeWeek": 3065,
-    "timeMonth": 1225,
-    "timeYear": 891,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 886,
+    "timeDay": 7265,
+    "timeWeek": 2793,
+    "timeMonth": 1208,
+    "timeYear": 886,
     "dailyMinutesDown": {
-      "2022-01-25": 0
+      "2022-01-25": 8
     }
   },
   {
