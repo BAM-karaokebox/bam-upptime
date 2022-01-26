@@ -258,9 +258,9 @@
     "url": "https://backend.api.bam-karaokeonline.com",
     "icon": "https://favicons.githubusercontent.com/backend.api.bam-karaokeonline.com",
     "slug": "tsl-bko-backend-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -269,7 +269,9 @@
     "timeWeek": 2793,
     "timeMonth": 1208,
     "timeYear": 886,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-26": 0
+    }
   },
   {
     "name": "TSL/BKO Backend API (staging)",
