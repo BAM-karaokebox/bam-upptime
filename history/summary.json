@@ -13,7 +13,7 @@
     "time": 3165,
     "timeDay": 2480,
     "timeWeek": 2318,
-    "timeMonth": 2419,
+    "timeMonth": 2446,
     "timeYear": 3165,
     "dailyMinutesDown": {
       "2021-10-21": 15,
@@ -38,7 +38,7 @@
     "time": 1176,
     "timeDay": 1089,
     "timeWeek": 1124,
-    "timeMonth": 1143,
+    "timeMonth": 1151,
     "timeYear": 1176,
     "dailyMinutesDown": {}
   },
@@ -56,7 +56,7 @@
     "time": 931,
     "timeDay": 1022,
     "timeWeek": 1028,
-    "timeMonth": 971,
+    "timeMonth": 979,
     "timeYear": 931,
     "dailyMinutesDown": {
       "2021-10-15": 169,
@@ -85,7 +85,7 @@
     "time": 310,
     "timeDay": 169,
     "timeWeek": 355,
-    "timeMonth": 318,
+    "timeMonth": 319,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2021-10-15": 169,
@@ -109,7 +109,7 @@
     "time": 652,
     "timeDay": 652,
     "timeWeek": 588,
-    "timeMonth": 602,
+    "timeMonth": 609,
     "timeYear": 652,
     "dailyMinutesDown": {
       "2021-11-12": 837,
@@ -153,17 +153,16 @@
     "slug": "the-songs-laboratory",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
     "time": 569,
     "timeDay": 13140,
     "timeWeek": 2183,
-    "timeMonth": 815,
+    "timeMonth": 850,
     "timeYear": 569,
     "dailyMinutesDown": {
-      "2022-02-28": 1,
       "2022-02-09": 16,
       "2021-12-20": 15,
       "2021-10-13": 63,
@@ -185,7 +184,7 @@
     "time": 666,
     "timeDay": 654,
     "timeWeek": 619,
-    "timeMonth": 666,
+    "timeMonth": 672,
     "timeYear": 666,
     "dailyMinutesDown": {
       "2021-10-13": 19
@@ -205,7 +204,7 @@
     "time": 673,
     "timeDay": 718,
     "timeWeek": 637,
-    "timeMonth": 649,
+    "timeMonth": 657,
     "timeYear": 673,
     "dailyMinutesDown": {
       "2021-11-24": 728,
@@ -269,7 +268,7 @@
     "time": 755,
     "timeDay": 642,
     "timeWeek": 539,
-    "timeMonth": 530,
+    "timeMonth": 537,
     "timeYear": 755,
     "dailyMinutesDown": {
       "2022-01-26": 17
@@ -289,7 +288,7 @@
     "time": 530,
     "timeDay": 506,
     "timeWeek": 499,
-    "timeMonth": 525,
+    "timeMonth": 527,
     "timeYear": 530,
     "dailyMinutesDown": {
       "2022-01-11": 29
@@ -309,7 +308,7 @@
     "time": 803,
     "timeDay": 504,
     "timeWeek": 500,
-    "timeMonth": 518,
+    "timeMonth": 523,
     "timeYear": 803,
     "dailyMinutesDown": {
       "2022-01-10": 40,
@@ -330,7 +329,7 @@
     "time": 510,
     "timeDay": 471,
     "timeWeek": 463,
-    "timeMonth": 507,
+    "timeMonth": 514,
     "timeYear": 510,
     "dailyMinutesDown": {}
   },
