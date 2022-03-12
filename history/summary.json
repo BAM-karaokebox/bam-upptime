@@ -338,19 +338,19 @@
     "url": "https://license.pallycon.com/ri/licenseManager.do",
     "icon": "https://favicons.githubusercontent.com/license.pallycon.com",
     "slug": "pally-con-multi-drm-licence-manager",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 788,
-    "timeDay": 842,
-    "timeWeek": 813,
+    "timeDay": 821,
+    "timeWeek": 811,
     "timeMonth": 801,
     "timeYear": 788,
     "dailyMinutesDown": {
-      "2022-03-12": 0
+      "2022-03-12": 5
     }
   }
 ]
