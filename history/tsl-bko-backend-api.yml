@@ -1,7 +1,7 @@
 url: https://backend.api.bam-karaokeonline.com
-status: down
-code: 504
-responseTime: 15468
-lastUpdated: 2022-04-21T10:54:34.806Z
+status: up
+code: 200
+responseTime: 471
+lastUpdated: 2022-04-21T11:06:17.952Z
 startTime: Fri Nov 26 2021 00:06:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
