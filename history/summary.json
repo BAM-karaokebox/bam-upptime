@@ -27,19 +27,19 @@
     "url": "https://backend.bam-karaokebox.com",
     "icon": "https://favicons.githubusercontent.com/backend.bam-karaokebox.com",
     "slug": "bam-karaoke-box-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1220,
-    "timeDay": 1221,
-    "timeWeek": 1122,
-    "timeMonth": 1306,
-    "timeYear": 1220,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.75%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
+    "time": 1222,
+    "timeDay": 1313,
+    "timeWeek": 1163,
+    "timeMonth": 1312,
+    "timeYear": 1222,
     "dailyMinutesDown": {
-      "2022-07-19": 0
+      "2022-07-19": 47
     }
   },
   {
