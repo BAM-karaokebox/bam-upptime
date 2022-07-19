@@ -27,18 +27,20 @@
     "url": "https://backend.bam-karaokebox.com",
     "icon": "https://favicons.githubusercontent.com/backend.bam-karaokebox.com",
     "slug": "bam-karaoke-box-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1221,
-    "timeDay": 1414,
-    "timeWeek": 1135,
-    "timeMonth": 1315,
-    "timeYear": 1221,
-    "dailyMinutesDown": {}
+    "time": 1220,
+    "timeDay": 1221,
+    "timeWeek": 1122,
+    "timeMonth": 1306,
+    "timeYear": 1220,
+    "dailyMinutesDown": {
+      "2022-07-19": 0
+    }
   },
   {
     "name": "BAM Karaoke To Go",
@@ -189,7 +191,7 @@
     "icon": "https://favicons.githubusercontent.com/www.app.staging.tslkaraoke.com",
     "slug": "tsl-pro-staging",
     "status": "up",
-    "uptime": "91.07%",
+    "uptime": "91.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
