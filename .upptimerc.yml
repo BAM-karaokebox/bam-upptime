@@ -9,8 +9,15 @@ sites:
     url: https://backend.bam-karaokebox.com
   - name: BAM Karaoke To Go
     url: https://www.bam-karaoketogo.com
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 403
   - name: BAM Karaoke Online
     url: https://www.bam-karaokeonline.com
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: BAM Karaoke Online (staging)
     url: https://www.app.staging.bam-karaokeonline.com
   - name: The Songs Laboratory
