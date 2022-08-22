@@ -17,7 +17,7 @@ sites:
     url: https://www.bam-karaokeonline.com
     expectedStatusCodes:
       - 200
-      - 404
+      - 403
   - name: BAM Karaoke Online (staging)
     url: https://www.app.staging.bam-karaokeonline.com
   - name: The Songs Laboratory
