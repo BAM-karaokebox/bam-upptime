@@ -6,17 +6,16 @@
     "slug": "bam-karaoke-box-web",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 3110,
-    "timeDay": 6481,
-    "timeWeek": 3911,
+    "time": 3112,
+    "timeDay": 6221,
+    "timeWeek": 3827,
     "timeMonth": 3284,
-    "timeYear": 3127,
+    "timeYear": 3122,
     "dailyMinutesDown": {
-      "2022-10-11": 12,
       "2022-08-03": 50,
       "2022-06-12": 23,
       "2021-10-21": 15,
@@ -35,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1223,
-    "timeDay": 1438,
-    "timeWeek": 1330,
-    "timeMonth": 1226,
+    "timeDay": 1379,
+    "timeWeek": 1319,
+    "timeMonth": 1234,
     "timeYear": 1223,
     "dailyMinutesDown": {
       "2022-08-01": 150,
@@ -55,19 +54,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.20%",
-    "time": 1007,
-    "timeDay": 1108,
-    "timeWeek": 1033,
-    "timeMonth": 972,
-    "timeYear": 1028,
+    "time": 1006,
+    "timeDay": 1148,
+    "timeWeek": 1058,
+    "timeMonth": 981,
+    "timeYear": 1027,
     "dailyMinutesDown": {
       "2022-08-22": 741,
       "2022-08-21": 1440,
       "2022-08-20": 1440,
       "2022-08-19": 304,
       "2021-10-15": 169,
-      "2021-10-13": 64,
-      "2021-10-12": 23
+      "2021-10-13": 64
     }
   },
   {
@@ -81,19 +79,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.17%",
-    "time": 294,
-    "timeDay": 3,
-    "timeWeek": 8,
+    "time": 293,
+    "timeDay": 15,
+    "timeWeek": 10,
     "timeMonth": 14,
-    "timeYear": 300,
+    "timeYear": 298,
     "dailyMinutesDown": {
       "2022-08-22": 925,
       "2022-08-21": 1440,
       "2022-08-20": 1440,
       "2022-08-19": 304,
       "2021-10-15": 169,
-      "2021-10-13": 64,
-      "2021-10-12": 23
+      "2021-10-13": 64
     }
   },
   {
@@ -108,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.45%",
     "time": 663,
-    "timeDay": 796,
-    "timeWeek": 691,
-    "timeMonth": 649,
+    "timeDay": 941,
+    "timeWeek": 710,
+    "timeMonth": 665,
     "timeYear": 668,
     "dailyMinutesDown": {
       "2021-11-12": 837,
@@ -143,8 +140,7 @@
       "2021-10-16": 1440,
       "2021-10-15": 1440,
       "2021-10-14": 1440,
-      "2021-10-13": 1440,
-      "2021-10-12": 886
+      "2021-10-13": 1440
     }
   },
   {
@@ -159,10 +155,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 536,
-    "timeDay": 492,
-    "timeWeek": 459,
-    "timeMonth": 517,
-    "timeYear": 561,
+    "timeDay": 640,
+    "timeWeek": 472,
+    "timeMonth": 528,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2022-02-09": 16,
       "2021-12-20": 15,
@@ -181,10 +177,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 701,
-    "timeDay": 869,
-    "timeWeek": 819,
-    "timeMonth": 798,
-    "timeYear": 710,
+    "timeDay": 1013,
+    "timeWeek": 846,
+    "timeMonth": 808,
+    "timeYear": 709,
     "dailyMinutesDown": {
       "2021-10-13": 19
     }
@@ -195,16 +191,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.app.staging.tslkaraoke.com.ico",
     "slug": "tsl-pro-staging",
     "status": "up",
-    "uptime": "92.40%",
+    "uptime": "92.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.18%",
     "time": 716,
-    "timeDay": 878,
-    "timeWeek": 882,
+    "timeDay": 650,
+    "timeWeek": 846,
     "timeMonth": 810,
-    "timeYear": 734,
+    "timeYear": 733,
     "dailyMinutesDown": {
       "2022-05-27": 36,
       "2021-11-24": 728,
@@ -249,8 +245,7 @@
       "2021-10-16": 1440,
       "2021-10-15": 1440,
       "2021-10-14": 1440,
-      "2021-10-13": 1440,
-      "2021-10-12": 886
+      "2021-10-13": 1440
     }
   },
   {
@@ -265,9 +260,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 788,
-    "timeDay": 706,
-    "timeWeek": 638,
-    "timeMonth": 593,
+    "timeDay": 611,
+    "timeWeek": 626,
+    "timeMonth": 599,
     "timeYear": 788,
     "dailyMinutesDown": {
       "2022-08-01": 72,
@@ -286,9 +281,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 572,
-    "timeDay": 769,
-    "timeWeek": 636,
-    "timeMonth": 574,
+    "timeDay": 626,
+    "timeWeek": 620,
+    "timeMonth": 582,
     "timeYear": 572,
     "dailyMinutesDown": {
       "2022-01-11": 29
@@ -306,9 +301,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 789,
-    "timeDay": 753,
-    "timeWeek": 657,
-    "timeMonth": 575,
+    "timeDay": 551,
+    "timeWeek": 633,
+    "timeMonth": 577,
     "timeYear": 789,
     "dailyMinutesDown": {
       "2022-08-01": 60,
@@ -327,11 +322,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 559,
-    "timeDay": 724,
-    "timeWeek": 609,
-    "timeMonth": 582,
-    "timeYear": 559,
+    "time": 574,
+    "timeDay": 5536,
+    "timeWeek": 1294,
+    "timeMonth": 747,
+    "timeYear": 574,
     "dailyMinutesDown": {}
   },
   {
@@ -346,9 +341,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 744,
-    "timeDay": 623,
-    "timeWeek": 687,
-    "timeMonth": 721,
+    "timeDay": 662,
+    "timeWeek": 695,
+    "timeMonth": 714,
     "timeYear": 744,
     "dailyMinutesDown": {}
   }
