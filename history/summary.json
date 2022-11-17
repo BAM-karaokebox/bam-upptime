@@ -6,9 +6,9 @@
     "slug": "bam-karaoke-box-web",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 3161,
     "timeDay": 3056,
@@ -16,7 +16,6 @@
     "timeMonth": 3436,
     "timeYear": 3041,
     "dailyMinutesDown": {
-      "2022-11-16": 5,
       "2022-11-09": 33,
       "2022-08-03": 50,
       "2022-06-12": 23
