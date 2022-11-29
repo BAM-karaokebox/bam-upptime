@@ -196,9 +196,9 @@
     "slug": "tsl-bko-backend-api-staging",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "97.77%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 569,
     "timeDay": 653,
@@ -206,7 +206,7 @@
     "timeMonth": 529,
     "timeYear": 569,
     "dailyMinutesDown": {
-      "2022-11-29": 0,
+      "2022-11-29": 32,
       "2022-01-11": 29
     }
   },
@@ -237,18 +237,20 @@
     "url": "https://forest.api.staging.bam-karaokeonline.com",
     "icon": "https://icons.duckduckgo.com/ip3/forest.api.staging.bam-karaokeonline.com.ico",
     "slug": "tsl-bko-liana-api-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 570,
-    "timeDay": 732,
-    "timeWeek": 521,
-    "timeMonth": 530,
+    "timeDay": 558,
+    "timeWeek": 504,
+    "timeMonth": 526,
     "timeYear": 571,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-29": 0
+    }
   },
   {
     "name": "PallyCon Multi-DRM Licence Manager",
