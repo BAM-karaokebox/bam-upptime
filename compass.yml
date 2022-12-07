@@ -1,0 +1,11 @@
+name: bam-upptime
+id: ari:cloud:compass:8d0ffbf6-f848-4e6e-b50c-9f0942a3db3d:component/1d792a34-5b27-4942-8261-794068ee87d9/24766eb0-63d8-4146-8ef8-930b9551d380
+description: A status monitor for Singtime's online presence.
+fields:
+  tier: 4
+links:
+  - type: REPOSITORY
+    name: null
+    url: https://github.com/BAM-karaokebox/bam-upptime
+relationships:
+  DEPENDS_ON: []
