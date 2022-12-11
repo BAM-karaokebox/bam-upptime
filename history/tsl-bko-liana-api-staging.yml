@@ -1,7 +1,7 @@
 url: https://forest.api.staging.bam-karaokeonline.com
 status: down
-code: 502
-responseTime: 620
-lastUpdated: 2022-12-10T23:05:34.138Z
+code: 503
+responseTime: 743
+lastUpdated: 2022-12-11T23:05:32.372Z
 startTime: Fri Nov 26 2021 00:06:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
