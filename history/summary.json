@@ -134,18 +134,20 @@
     "url": "https://www.tslkaraoke.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tslkaraoke.com.ico",
     "slug": "tsl-pro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 697,
+    "time": 698,
     "timeDay": 491,
     "timeWeek": 536,
     "timeMonth": 610,
     "timeYear": 717,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "TSL Pro (staging)",
@@ -194,10 +196,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.api.staging.bam-karaokeonline.com.ico",
     "slug": "tsl-bko-backend-api-staging",
     "status": "up",
-    "uptime": "91.65%",
+    "uptime": "91.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "68.19%",
+    "uptimeMonth": "69.33%",
     "uptimeYear": "90.28%",
     "time": 566,
     "timeDay": 428,
@@ -269,7 +271,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/forest.api.staging.bam-karaokeonline.com.ico",
     "slug": "tsl-bko-liana-api-staging",
     "status": "up",
-    "uptime": "94.96%",
+    "uptime": "94.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -309,9 +311,9 @@
     "url": "https://license.pallycon.com/ri/licenseManager.do",
     "icon": "https://icons.duckduckgo.com/ip3/license.pallycon.com.ico",
     "slug": "pally-con-multi-drm-licence-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -320,6 +322,8 @@
     "timeWeek": 746,
     "timeMonth": 718,
     "timeYear": 736,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   }
 ]
