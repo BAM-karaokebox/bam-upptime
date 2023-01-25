@@ -136,18 +136,16 @@
     "slug": "tsl-pro",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 697,
     "timeDay": 549,
     "timeWeek": 545,
     "timeMonth": 610,
     "timeYear": 716,
-    "dailyMinutesDown": {
-      "2023-01-25": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TSL Pro (staging)",
@@ -199,7 +197,7 @@
     "uptime": "91.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "69.35%",
+    "uptimeMonth": "69.36%",
     "uptimeYear": "90.28%",
     "time": 566,
     "timeDay": 428,
@@ -311,19 +309,19 @@
     "url": "https://license.pallycon.com/ri/licenseManager.do",
     "icon": "https://icons.duckduckgo.com/ip3/license.pallycon.com.ico",
     "slug": "pally-con-multi-drm-licence-manager",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 738,
-    "timeDay": 771,
-    "timeWeek": 746,
-    "timeMonth": 718,
-    "timeYear": 736,
+    "timeDay": 675,
+    "timeWeek": 725,
+    "timeMonth": 713,
+    "timeYear": 735,
     "dailyMinutesDown": {
-      "2023-01-25": 5
+      "2023-01-25": 10
     }
   }
 ]
