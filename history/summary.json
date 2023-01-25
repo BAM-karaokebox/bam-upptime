@@ -134,19 +134,19 @@
     "url": "https://www.tslkaraoke.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tslkaraoke.com.ico",
     "slug": "tsl-pro",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 698,
-    "timeDay": 491,
-    "timeWeek": 536,
+    "time": 697,
+    "timeDay": 549,
+    "timeWeek": 545,
     "timeMonth": 610,
-    "timeYear": 717,
+    "timeYear": 716,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 5
     }
   },
   {
@@ -199,7 +199,7 @@
     "uptime": "91.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "69.33%",
+    "uptimeMonth": "69.35%",
     "uptimeYear": "90.28%",
     "time": 566,
     "timeDay": 428,
@@ -313,9 +313,9 @@
     "slug": "pally-con-multi-drm-licence-manager",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 738,
     "timeDay": 771,
@@ -323,7 +323,7 @@
     "timeMonth": 718,
     "timeYear": 736,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 5
     }
   }
 ]
