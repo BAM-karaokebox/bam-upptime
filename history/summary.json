@@ -155,9 +155,9 @@
     "url": "https://www.app.staging.tslkaraoke.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.app.staging.tslkaraoke.com.ico",
     "slug": "tsl-pro-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "93.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -167,6 +167,7 @@
     "timeMonth": 624,
     "timeYear": 727,
     "dailyMinutesDown": {
+      "2023-03-01": 0,
       "2022-05-27": 36
     }
   },
