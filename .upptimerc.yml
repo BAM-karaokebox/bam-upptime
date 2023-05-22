@@ -5,6 +5,18 @@ user-agent: BAM-karaokebox
 sites:
   - name: BKB / BAM Karaoke Box / Website
     url: https://www.bam-karaokebox.com
+  - name: BKB / BAM Karaoke Box / Website FR
+    url: https://fr.bam-karaokebox.com
+  - name: BKB / BAM Karaoke Box / Website ES
+    url: https://es.bam-karaokebox.com
+  - name: BKB / BAM Karaoke Box / Website EN
+    url: https://en.bam-karaokebox.com
+  - name: BKB / BAM Karaoke Box / Website FR / Booking (Paris)
+    url: https://fr.bam-karaokebox.com/booking?city=Paris
+  - name: BKB / BAM Karaoke Box / Website FR / Booking (Bordeaux)
+    url: https://fr.bam-karaokebox.com/booking?city=Bordeaux
+  - name: BKB / BAM Karaoke Box / Website FR / Booking (Madrid)
+    url: https://fr.bam-karaokebox.com/booking?city=Madrid
   - name: BKB / BAM Karaoke Box / Backoffice
     url: https://backend.bam-karaokebox.com
   - name: BKB / BAM Karaoke To Go
