@@ -1,7 +1,7 @@
-url: https://backend.api.preproduction.bam-karaokeonline.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-05-22T14:51:47.410Z
+url: https://backend.api.preprod.bam-karaokeonline.com
+status: up
+code: 200
+responseTime: 798
+lastUpdated: 2023-05-22T15:19:34.236Z
 startTime: Mon May 22 2023 14:51:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
