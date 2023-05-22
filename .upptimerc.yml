@@ -3,38 +3,46 @@ repo: bam-upptime
 user-agent: BAM-karaokebox
 
 sites:
-  - name: BAM Karaoke Box (web)
+  - name: BKB / BAM Karaoke Box / Website
     url: https://www.bam-karaokebox.com
-  - name: BAM Karaoke Box Backend
+  - name: BKB / BAM Karaoke Box / Backoffice
     url: https://backend.bam-karaokebox.com
-  - name: BAM Karaoke To Go
+  - name: BKB / BAM Karaoke To Go
     url: https://www.bam-karaoketogo.com
     expectedStatusCodes:
       - 200
       - 301
       - 403
-  - name: BAM Karaoke Online
+  - name: BKB / BAM Karaoke Online
     url: https://www.bam-karaokeonline.com
     expectedStatusCodes:
       - 200
       - 403
-  - name: BAM Karaoke Online (staging)
+  - name: BKB / BAM Karaoke Online (preproduction)
+    url: https://www.app.preproduction.bam-karaokeonline.com
+  - name: BKB / BAM Karaoke Online (staging)
     url: https://www.app.staging.bam-karaokeonline.com
-  - name: The Songs Laboratory
+  - name: TSL / The Songs Laboratory
     url: https://www.thesongslaboratory.com
-  - name: TSL Pro
+  - name: TSL / TSL Karaoke
     url: https://www.tslkaraoke.com
-  - name: TSL Pro (staging)
+  - name: TSL / TSL Karaoke (preproduction)
+    url: https://www.app.preproduction.tslkaraoke.com
+  - name: TSL / TSL Karaoke (staging)
     url: https://www.app.staging.tslkaraoke.com
-  - name: TSL/BKO Backend API
+  - name: TSL / TSL Platform / Backend API
     url: https://backend.api.bam-karaokeonline.com
-  - name: TSL/BKO Backend API (staging)
+  - name: TSL / TSL Platform / Backend API (preproduction)
+    url: https://backend.api.preproduction.bam-karaokeonline.com
+  - name: TSL / TSL Platform / Backend API (staging)
     url: https://backend.api.staging.bam-karaokeonline.com
-  - name: TSL/BKO Liana API
+  - name: TSL / TSL Platform / Liana API
     url: https://forest.api.bam-karaokeonline.com
-  - name: TSL/BKO Liana API (staging)
+  - name: TSL / TSL Platform / Liana API (preproduction)
+    url: https://forest.api.preproduction.bam-karaokeonline.com
+  - name: TSL / TSL Platform / Liana API (staging)
     url: https://forest.api.staging.bam-karaokeonline.com
-  - name: PallyCon Multi-DRM Licence Manager
+  - name: TSL / PallyCon / Multi-DRM Licence Manager
     url: https://license.pallycon.com/ri/licenseManager.do
 
 status-website:
