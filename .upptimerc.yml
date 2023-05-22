@@ -31,7 +31,7 @@ sites:
       - 200
       - 403
   - name: BKB / BAM Karaoke Online (preproduction)
-    url: https://www.app.preproduction.bam-karaokeonline.com
+    url: https://www.app.preprod.bam-karaokeonline.com
   - name: BKB / BAM Karaoke Online (staging)
     url: https://www.app.staging.bam-karaokeonline.com
   - name: TSL / The Songs Laboratory
@@ -39,19 +39,19 @@ sites:
   - name: TSL / TSL Karaoke
     url: https://www.tslkaraoke.com
   - name: TSL / TSL Karaoke (preproduction)
-    url: https://www.app.preproduction.tslkaraoke.com
+    url: https://www.app.preprod.tslkaraoke.com
   - name: TSL / TSL Karaoke (staging)
     url: https://www.app.staging.tslkaraoke.com
   - name: TSL / TSL Platform / Backend API
     url: https://backend.api.bam-karaokeonline.com
   - name: TSL / TSL Platform / Backend API (preproduction)
-    url: https://backend.api.preproduction.bam-karaokeonline.com
+    url: https://backend.api.preprod.bam-karaokeonline.com
   - name: TSL / TSL Platform / Backend API (staging)
     url: https://backend.api.staging.bam-karaokeonline.com
   - name: TSL / TSL Platform / Liana API
     url: https://forest.api.bam-karaokeonline.com
   - name: TSL / TSL Platform / Liana API (preproduction)
-    url: https://forest.api.preproduction.bam-karaokeonline.com
+    url: https://forest.api.preprod.bam-karaokeonline.com
   - name: TSL / TSL Platform / Liana API (staging)
     url: https://forest.api.staging.bam-karaokeonline.com
   - name: TSL / PallyCon / Multi-DRM Licence Manager
