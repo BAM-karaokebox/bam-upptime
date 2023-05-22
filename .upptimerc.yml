@@ -32,14 +32,23 @@ sites:
       - 403
   - name: BKB / BAM Karaoke Online (preproduction)
     url: https://www.app.preprod.bam-karaokeonline.com
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: BKB / BAM Karaoke Online (staging)
     url: https://www.app.staging.bam-karaokeonline.com
   - name: TSL / The Songs Laboratory
     url: https://www.thesongslaboratory.com
   - name: TSL / TSL Karaoke
     url: https://www.tslkaraoke.com
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: TSL / TSL Karaoke (preproduction)
     url: https://www.app.preprod.tslkaraoke.com
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: TSL / TSL Karaoke (staging)
     url: https://www.app.staging.tslkaraoke.com
   - name: TSL / TSL Platform / Backend API
