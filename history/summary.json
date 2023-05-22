@@ -181,22 +181,22 @@
   },
   {
     "name": "BKB / BAM Karaoke Online (preproduction)",
-    "url": "https://www.app.preproduction.bam-karaokeonline.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.app.preproduction.bam-karaokeonline.com.ico",
+    "url": "https://www.app.preprod.bam-karaokeonline.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.app.preprod.bam-karaokeonline.com.ico",
     "slug": "bkb-bam-karaoke-online-preproduction",
     "status": "down",
-    "uptime": "0.20%",
-    "uptimeDay": "0.20%",
-    "uptimeWeek": "0.20%",
-    "uptimeMonth": "0.20%",
-    "uptimeYear": "0.20%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 6
+      "2023-05-22": 28
     }
   },
   {
@@ -255,22 +255,22 @@
   },
   {
     "name": "TSL / TSL Karaoke (preproduction)",
-    "url": "https://www.app.preproduction.tslkaraoke.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.app.preproduction.tslkaraoke.com.ico",
+    "url": "https://www.app.preprod.tslkaraoke.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.app.preprod.tslkaraoke.com.ico",
     "slug": "tsl-tsl-karaoke-preproduction",
-    "status": "down",
-    "uptime": "0.24%",
-    "uptimeDay": "0.24%",
-    "uptimeWeek": "0.24%",
-    "uptimeMonth": "0.24%",
-    "uptimeYear": "0.24%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.29%",
+    "uptimeDay": "1.29%",
+    "uptimeWeek": "1.29%",
+    "uptimeMonth": "1.29%",
+    "uptimeYear": "1.29%",
+    "time": 624,
+    "timeDay": 624,
+    "timeWeek": 624,
+    "timeMonth": 624,
+    "timeYear": 624,
     "dailyMinutesDown": {
-      "2023-05-22": 6
+      "2023-05-22": 28
     }
   },
   {
@@ -311,22 +311,22 @@
   },
   {
     "name": "TSL / TSL Platform / Backend API (preproduction)",
-    "url": "https://backend.api.preproduction.bam-karaokeonline.com",
-    "icon": "https://icons.duckduckgo.com/ip3/backend.api.preproduction.bam-karaokeonline.com.ico",
+    "url": "https://backend.api.preprod.bam-karaokeonline.com",
+    "icon": "https://icons.duckduckgo.com/ip3/backend.api.preprod.bam-karaokeonline.com.ico",
     "slug": "tsl-tsl-platform-backend-api-preproduction",
-    "status": "down",
-    "uptime": "0.17%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.02%",
+    "uptimeDay": "1.02%",
+    "uptimeWeek": "1.02%",
+    "uptimeMonth": "1.02%",
+    "uptimeYear": "1.02%",
+    "time": 798,
+    "timeDay": 798,
+    "timeWeek": 798,
+    "timeMonth": 798,
+    "timeYear": 798,
     "dailyMinutesDown": {
-      "2023-05-22": 6
+      "2023-05-22": 28
     }
   },
   {
@@ -367,22 +367,22 @@
   },
   {
     "name": "TSL / TSL Platform / Liana API (preproduction)",
-    "url": "https://forest.api.preproduction.bam-karaokeonline.com",
-    "icon": "https://icons.duckduckgo.com/ip3/forest.api.preproduction.bam-karaokeonline.com.ico",
+    "url": "https://forest.api.preprod.bam-karaokeonline.com",
+    "icon": "https://icons.duckduckgo.com/ip3/forest.api.preprod.bam-karaokeonline.com.ico",
     "slug": "tsl-tsl-platform-liana-api-preproduction",
-    "status": "down",
-    "uptime": "0.40%",
-    "uptimeDay": "0.40%",
-    "uptimeWeek": "0.40%",
-    "uptimeMonth": "0.40%",
-    "uptimeYear": "0.40%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.80%",
+    "uptimeDay": "0.80%",
+    "uptimeWeek": "0.80%",
+    "uptimeMonth": "0.80%",
+    "uptimeYear": "0.80%",
+    "time": 521,
+    "timeDay": 521,
+    "timeWeek": 521,
+    "timeMonth": 521,
+    "timeYear": 521,
     "dailyMinutesDown": {
-      "2023-05-22": 6
+      "2023-05-22": 28
     }
   },
   {
