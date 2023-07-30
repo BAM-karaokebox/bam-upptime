@@ -22,10 +22,10 @@
     "url": "https://fr.bam-karaokebox.com",
     "icon": "https://icons.duckduckgo.com/ip3/fr.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1011,
@@ -33,7 +33,9 @@
     "timeWeek": 1283,
     "timeMonth": 1126,
     "timeYear": 1011,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-30": 1
+    }
   },
   {
     "name": "BKB / BAM Karaoke Box / Website ES",
