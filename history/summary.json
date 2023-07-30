@@ -4,10 +4,10 @@
     "url": "https://www.bam-karaokebox.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2947,
@@ -15,7 +15,9 @@
     "timeWeek": 3344,
     "timeMonth": 3064,
     "timeYear": 2947,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-30": 1
+    }
   },
   {
     "name": "BKB / BAM Karaoke Box / Website FR",
@@ -41,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/es.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website-es",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1752,
     "timeDay": 2161,
     "timeWeek": 2325,
     "timeMonth": 1977,
     "timeYear": 1752,
-    "dailyMinutesDown": {
-      "2023-07-30": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BKB / BAM Karaoke Box / Website EN",
