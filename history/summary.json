@@ -4,19 +4,19 @@
     "url": "https://www.bam-karaokebox.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2950,
-    "timeDay": 3094,
-    "timeWeek": 3316,
-    "timeMonth": 3066,
-    "timeYear": 2950,
+    "time": 3066,
+    "timeDay": 5882,
+    "timeWeek": 4220,
+    "timeMonth": 3328,
+    "timeYear": 3066,
     "dailyMinutesDown": {
-      "2023-07-30": 2
+      "2023-07-30": 4
     }
   },
   {
