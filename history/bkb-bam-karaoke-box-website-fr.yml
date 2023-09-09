@@ -1,7 +1,7 @@
 url: https://fr.bam-karaokebox.com
-status: up
-code: 200
-responseTime: 751
-lastUpdated: 2023-09-08T23:05:17.247Z
+status: down
+code: 500
+responseTime: 710
+lastUpdated: 2023-09-09T02:38:14.433Z
 startTime: 2023-05-22T14:57:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
