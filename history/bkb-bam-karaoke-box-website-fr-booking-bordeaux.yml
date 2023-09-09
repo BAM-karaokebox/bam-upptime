@@ -1,7 +1,7 @@
 url: https://fr.bam-karaokebox.com/booking?city=Bordeaux
-status: up
-code: 200
-responseTime: 855
-lastUpdated: 2023-09-08T23:05:23.723Z
+status: down
+code: 500
+responseTime: 689
+lastUpdated: 2023-09-09T02:38:35.125Z
 startTime: 2023-05-22T14:57:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
