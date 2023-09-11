@@ -1,7 +1,7 @@
 url: https://fr.bam-karaokebox.com/booking?city=Paris
-status: down
-code: 500
-responseTime: 1544
-lastUpdated: 2023-09-11T02:30:05.211Z
+status: up
+code: 200
+responseTime: 724
+lastUpdated: 2023-09-11T02:35:02.963Z
 startTime: 2023-05-22T14:57:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
