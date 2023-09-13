@@ -4,19 +4,19 @@
     "url": "https://www.bam-karaokebox.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
-    "time": 3478,
-    "timeDay": 3981,
-    "timeWeek": 3258,
-    "timeMonth": 3937,
-    "timeYear": 3478,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 3474,
+    "timeDay": 3653,
+    "timeWeek": 3238,
+    "timeMonth": 3909,
+    "timeYear": 3474,
     "dailyMinutesDown": {
-      "2023-09-13": 23
+      "2023-09-13": 26
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://fr.bam-karaokebox.com",
     "icon": "https://icons.duckduckgo.com/ip3/fr.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website-fr",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
-    "time": 1223,
-    "timeDay": 3147,
-    "timeWeek": 1497,
-    "timeMonth": 1627,
-    "timeYear": 1223,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 1220,
+    "timeDay": 2391,
+    "timeWeek": 1449,
+    "timeMonth": 1604,
+    "timeYear": 1220,
     "dailyMinutesDown": {
-      "2023-09-13": 22
+      "2023-09-13": 26
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://es.bam-karaokebox.com",
     "icon": "https://icons.duckduckgo.com/ip3/es.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website-es",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 2085,
-    "timeDay": 1964,
-    "timeWeek": 1571,
-    "timeMonth": 2612,
-    "timeYear": 2085,
+    "time": 2075,
+    "timeDay": 1438,
+    "timeWeek": 1516,
+    "timeMonth": 2559,
+    "timeYear": 2075,
     "dailyMinutesDown": {
-      "2023-09-13": 21
+      "2023-09-13": 24
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://en.bam-karaokebox.com",
     "icon": "https://icons.duckduckgo.com/ip3/en.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website-en",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 2055,
-    "timeDay": 2031,
-    "timeWeek": 1583,
-    "timeMonth": 2361,
-    "timeYear": 2055,
+    "time": 2045,
+    "timeDay": 1467,
+    "timeWeek": 1527,
+    "timeMonth": 2315,
+    "timeYear": 2045,
     "dailyMinutesDown": {
-      "2023-09-13": 19
+      "2023-09-13": 23
     }
   },
   {
@@ -125,19 +125,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/fr.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website-fr-booking-madrid",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 314,
     "timeDay": 728,
     "timeWeek": 473,
     "timeMonth": 380,
     "timeYear": 314,
-    "dailyMinutesDown": {
-      "2023-09-13": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BKB / BAM Karaoke Box / Backoffice",
@@ -145,19 +143,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-backoffice",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1173,
     "timeDay": 1744,
     "timeWeek": 1426,
     "timeMonth": 1408,
     "timeYear": 1173,
-    "dailyMinutesDown": {
-      "2023-09-13": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BKB / BAM Karaoke To Go",
