@@ -4,118 +4,130 @@
     "url": "https://www.bam-karaokebox.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3467,
-    "timeDay": 3203,
-    "timeWeek": 3121,
-    "timeMonth": 3911,
-    "timeYear": 3467,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 3478,
+    "timeDay": 3981,
+    "timeWeek": 3258,
+    "timeMonth": 3937,
+    "timeYear": 3478,
+    "dailyMinutesDown": {
+      "2023-09-13": 10
+    }
   },
   {
     "name": "BKB / BAM Karaoke Box / Website FR",
     "url": "https://fr.bam-karaokebox.com",
     "icon": "https://icons.duckduckgo.com/ip3/fr.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website-fr",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1192,
-    "timeDay": 1392,
-    "timeWeek": 1188,
-    "timeMonth": 1521,
-    "timeYear": 1192,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1223,
+    "timeDay": 3147,
+    "timeWeek": 1497,
+    "timeMonth": 1627,
+    "timeYear": 1223,
+    "dailyMinutesDown": {
+      "2023-09-13": 9
+    }
   },
   {
     "name": "BKB / BAM Karaoke Box / Website ES",
     "url": "https://es.bam-karaokebox.com",
     "icon": "https://icons.duckduckgo.com/ip3/es.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website-es",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 2085,
     "timeDay": 1964,
     "timeWeek": 1571,
     "timeMonth": 2612,
     "timeYear": 2085,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-13": 8
+    }
   },
   {
     "name": "BKB / BAM Karaoke Box / Website EN",
     "url": "https://en.bam-karaokebox.com",
     "icon": "https://icons.duckduckgo.com/ip3/en.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website-en",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2055,
     "timeDay": 2031,
     "timeWeek": 1583,
     "timeMonth": 2361,
     "timeYear": 2055,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-13": 6
+    }
   },
   {
     "name": "BKB / BAM Karaoke Box / Website FR / Booking (Paris)",
     "url": "https://fr.bam-karaokebox.com/booking?city=Paris",
     "icon": "https://icons.duckduckgo.com/ip3/fr.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website-fr-booking-paris",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 916,
     "timeDay": 1646,
     "timeWeek": 1159,
     "timeMonth": 1307,
     "timeYear": 916,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-13": 5
+    }
   },
   {
     "name": "BKB / BAM Karaoke Box / Website FR / Booking (Bordeaux)",
     "url": "https://fr.bam-karaokebox.com/booking?city=Bordeaux",
     "icon": "https://icons.duckduckgo.com/ip3/fr.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website-fr-booking-bordeaux",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 762,
     "timeDay": 1112,
     "timeWeek": 812,
     "timeMonth": 851,
     "timeYear": 762,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-13": 3
+    }
   },
   {
     "name": "BKB / BAM Karaoke Box / Website FR / Booking (Madrid)",
     "url": "https://fr.bam-karaokebox.com/booking?city=Madrid",
     "icon": "https://icons.duckduckgo.com/ip3/fr.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website-fr-booking-madrid",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 307,
@@ -123,16 +135,18 @@
     "timeWeek": 415,
     "timeMonth": 356,
     "timeYear": 307,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-13": 2
+    }
   },
   {
     "name": "BKB / BAM Karaoke Box / Backoffice",
     "url": "https://backend.bam-karaokebox.com",
     "icon": "https://icons.duckduckgo.com/ip3/backend.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-backoffice",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,7 +155,9 @@
     "timeWeek": 1310,
     "timeMonth": 1377,
     "timeYear": 1164,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-13": 0
+    }
   },
   {
     "name": "BKB / BAM Karaoke To Go",
