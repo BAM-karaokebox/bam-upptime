@@ -6,7 +6,7 @@
     "slug": "bkb-bam-karaoke-box-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 3550,
     "timeYear": 3394,
     "dailyMinutesDown": {
+      "2023-09-24": 0,
       "2023-09-13": 26
     }
   },
@@ -254,9 +255,9 @@
     "url": "https://www.tslkaraoke.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tslkaraoke.com.ico",
     "slug": "tsl-tsl-karaoke",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -265,16 +266,18 @@
     "timeWeek": 544,
     "timeMonth": 566,
     "timeYear": 592,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-24": 0
+    }
   },
   {
     "name": "TSL / TSL Karaoke (preproduction)",
     "url": "https://www.app.preprod.tslkaraoke.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.app.preprod.tslkaraoke.com.ico",
     "slug": "tsl-tsl-karaoke-preproduction",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -284,6 +287,7 @@
     "timeMonth": 566,
     "timeYear": 588,
     "dailyMinutesDown": {
+      "2023-09-24": 0,
       "2023-05-22": 28
     }
   },
