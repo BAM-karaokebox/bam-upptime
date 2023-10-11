@@ -13,7 +13,7 @@
     "time": 3302,
     "timeDay": 2844,
     "timeWeek": 2348,
-    "timeMonth": 2669,
+    "timeMonth": 2660,
     "timeYear": 3302,
     "dailyMinutesDown": {
       "2023-09-13": 26
@@ -33,7 +33,7 @@
     "time": 1165,
     "timeDay": 564,
     "timeWeek": 739,
-    "timeMonth": 1126,
+    "timeMonth": 1086,
     "timeYear": 1165,
     "dailyMinutesDown": {
       "2023-09-13": 26
@@ -53,7 +53,7 @@
     "time": 1956,
     "timeDay": 1295,
     "timeWeek": 1255,
-    "timeMonth": 1443,
+    "timeMonth": 1455,
     "timeYear": 1956,
     "dailyMinutesDown": {
       "2023-09-13": 24
@@ -73,7 +73,7 @@
     "time": 1934,
     "timeDay": 1306,
     "timeWeek": 1221,
-    "timeMonth": 1454,
+    "timeMonth": 1460,
     "timeYear": 1934,
     "dailyMinutesDown": {
       "2023-09-13": 23
@@ -93,7 +93,7 @@
     "time": 889,
     "timeDay": 586,
     "timeWeek": 577,
-    "timeMonth": 818,
+    "timeMonth": 797,
     "timeYear": 889,
     "dailyMinutesDown": {
       "2023-09-13": 17
@@ -113,7 +113,7 @@
     "time": 757,
     "timeDay": 750,
     "timeWeek": 634,
-    "timeMonth": 761,
+    "timeMonth": 749,
     "timeYear": 757,
     "dailyMinutesDown": {
       "2023-09-13": 16
@@ -133,7 +133,7 @@
     "time": 305,
     "timeDay": 281,
     "timeWeek": 257,
-    "timeMonth": 313,
+    "timeMonth": 302,
     "timeYear": 305,
     "dailyMinutesDown": {}
   },
@@ -234,10 +234,10 @@
     "url": "https://www.thesongslaboratory.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.thesongslaboratory.com.ico",
     "slug": "tsl-the-songs-laboratory",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 285,
@@ -246,6 +246,7 @@
     "timeMonth": 291,
     "timeYear": 285,
     "dailyMinutesDown": {
+      "2023-10-11": 1,
       "2023-07-11": 38
     }
   },
