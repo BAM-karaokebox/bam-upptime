@@ -1,7 +1,7 @@
-url: https://backend.bam-karaokebox.com
+url: https://backend.bam-karaokebox.com?traffic_type=monitoring
 status: up
 code: 200
-responseTime: 780
-lastUpdated: 2023-10-11T23:05:26.712Z
+responseTime: 1276
+lastUpdated: 2023-10-12T16:45:08.114Z
 startTime: 2023-05-22T14:51:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
