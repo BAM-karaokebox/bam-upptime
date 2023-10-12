@@ -1,7 +1,7 @@
-url: https://www.bam-karaokeonline.com
+url: https://www.bam-karaokeonline.com?traffic_type=monitoring
 status: up
 code: 403
-responseTime: 3
-lastUpdated: 2023-10-11T23:05:28.041Z
+responseTime: 15
+lastUpdated: 2023-10-12T16:45:09.825Z
 startTime: 2023-05-22T14:51:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
