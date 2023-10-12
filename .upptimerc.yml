@@ -4,65 +4,65 @@ user-agent: BAM-karaokebox
 
 sites:
   - name: BKB / BAM Karaoke Box / Website
-    url: https://www.bam-karaokebox.com
+    url: https://www.bam-karaokebox.com?traffic_type=monitoring
   - name: BKB / BAM Karaoke Box / Website FR
-    url: https://fr.bam-karaokebox.com
+    url: https://fr.bam-karaokebox.com?traffic_type=monitoring
   - name: BKB / BAM Karaoke Box / Website ES
-    url: https://es.bam-karaokebox.com
+    url: https://es.bam-karaokebox.com?traffic_type=monitoring
   - name: BKB / BAM Karaoke Box / Website EN
-    url: https://en.bam-karaokebox.com
+    url: https://en.bam-karaokebox.com?traffic_type=monitoring
   - name: BKB / BAM Karaoke Box / Website FR / Booking (Paris)
-    url: https://fr.bam-karaokebox.com/booking?city=Paris
+    url: https://fr.bam-karaokebox.com/booking?city=Paris&traffic_type=monitoring
   - name: BKB / BAM Karaoke Box / Website FR / Booking (Bordeaux)
-    url: https://fr.bam-karaokebox.com/booking?city=Bordeaux
+    url: https://fr.bam-karaokebox.com/booking?city=Bordeaux&traffic_type=monitoring
   - name: BKB / BAM Karaoke Box / Website FR / Booking (Madrid)
-    url: https://fr.bam-karaokebox.com/booking?city=Madrid
+    url: https://fr.bam-karaokebox.com/booking?city=Madrid&traffic_type=monitoring
   - name: BKB / BAM Karaoke Box / Backoffice
-    url: https://backend.bam-karaokebox.com
+    url: https://backend.bam-karaokebox.com?traffic_type=monitoring
   - name: BKB / BAM Karaoke To Go
-    url: https://www.bam-karaoketogo.com
+    url: https://www.bam-karaoketogo.com?traffic_type=monitoring
     expectedStatusCodes:
       - 200
       - 301
       - 403
   - name: BKB / BAM Karaoke Online
-    url: https://www.bam-karaokeonline.com
+    url: https://www.bam-karaokeonline.com?traffic_type=monitoring
     expectedStatusCodes:
       - 200
       - 403
   - name: BKB / BAM Karaoke Online (preproduction)
-    url: https://www.app.preprod.bam-karaokeonline.com
+    url: https://www.app.preprod.bam-karaokeonline.com?traffic_type=monitoring
     expectedStatusCodes:
       - 200
       - 403
   - name: BKB / BAM Karaoke Online (staging)
-    url: https://www.app.staging.bam-karaokeonline.com
+    url: https://www.app.staging.bam-karaokeonline.com?traffic_type=monitoring
   - name: TSL / The Songs Laboratory
-    url: https://www.thesongslaboratory.com
+    url: https://www.thesongslaboratory.com?traffic_type=monitoring
   - name: TSL / TSL Karaoke
-    url: https://www.tslkaraoke.com
+    url: https://www.tslkaraoke.com?traffic_type=monitoring
     expectedStatusCodes:
       - 200
       - 403
   - name: TSL / TSL Karaoke (preproduction)
-    url: https://www.app.preprod.tslkaraoke.com
+    url: https://www.app.preprod.tslkaraoke.com?traffic_type=monitoring
     expectedStatusCodes:
       - 200
       - 403
   - name: TSL / TSL Karaoke (staging)
-    url: https://www.app.staging.tslkaraoke.com
+    url: https://www.app.staging.tslkaraoke.com?traffic_type=monitoring
   - name: TSL / TSL Platform / Backend API
-    url: https://backend.api.bam-karaokeonline.com
+    url: https://backend.api.bam-karaokeonline.com?traffic_type=monitoring
   - name: TSL / TSL Platform / Backend API (preproduction)
-    url: https://backend.api.preprod.bam-karaokeonline.com
+    url: https://backend.api.preprod.bam-karaokeonline.com?traffic_type=monitoring
   - name: TSL / TSL Platform / Backend API (staging)
-    url: https://backend.api.staging.bam-karaokeonline.com
+    url: https://backend.api.staging.bam-karaokeonline.com?traffic_type=monitoring
   - name: TSL / TSL Platform / Liana API
-    url: https://forest.api.bam-karaokeonline.com
+    url: https://forest.api.bam-karaokeonline.com?traffic_type=monitoring
   - name: TSL / TSL Platform / Liana API (preproduction)
-    url: https://forest.api.preprod.bam-karaokeonline.com
+    url: https://forest.api.preprod.bam-karaokeonline.com?traffic_type=monitoring
   - name: TSL / TSL Platform / Liana API (staging)
-    url: https://forest.api.staging.bam-karaokeonline.com
+    url: https://forest.api.staging.bam-karaokeonline.com?traffic_type=monitoring
   - name: TSL / PallyCon / Multi-DRM Licence Manager
     url: https://license.pallycon.com/ri/licenseManager.do
 
