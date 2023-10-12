@@ -1,7 +1,7 @@
-url: https://forest.api.staging.bam-karaokeonline.com
+url: https://forest.api.staging.bam-karaokeonline.com?traffic_type=monitoring
 status: up
 code: 200
-responseTime: 410
-lastUpdated: 2023-10-11T23:05:36.822Z
+responseTime: 583
+lastUpdated: 2023-10-12T16:45:20.952Z
 startTime: 2023-05-22T14:51:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
