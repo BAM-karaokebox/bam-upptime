@@ -422,19 +422,19 @@
     "url": "https://license.pallycon.com/ri/licenseManager.do",
     "icon": "https://icons.duckduckgo.com/ip3/license.pallycon.com.ico",
     "slug": "tsl-pally-con-multi-drm-licence-manager",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 629,
-    "timeDay": 495,
-    "timeWeek": 530,
-    "timeMonth": 566,
+    "timeDay": 583,
+    "timeWeek": 547,
+    "timeMonth": 569,
     "timeYear": 629,
     "dailyMinutesDown": {
-      "2023-10-24": 0
+      "2023-10-24": 24
     }
   }
 ]
