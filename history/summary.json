@@ -292,19 +292,19 @@
     "url": "https://www.app.staging.tslkaraoke.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/www.app.staging.tslkaraoke.com.ico",
     "slug": "tsl-tsl-karaoke-staging",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 613,
-    "timeDay": 598,
-    "timeWeek": 698,
-    "timeMonth": 619,
+    "timeDay": 620,
+    "timeWeek": 691,
+    "timeMonth": 620,
     "timeYear": 613,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 7
     }
   },
   {
