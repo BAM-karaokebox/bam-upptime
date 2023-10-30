@@ -292,9 +292,9 @@
     "url": "https://www.app.staging.tslkaraoke.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/www.app.staging.tslkaraoke.com.ico",
     "slug": "tsl-tsl-karaoke-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -303,7 +303,9 @@
     "timeWeek": 698,
     "timeMonth": 619,
     "timeYear": 613,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "TSL / TSL Platform / Backend API",
