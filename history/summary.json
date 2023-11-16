@@ -4,11 +4,11 @@
     "url": "https://www.bam-karaokebox.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/www.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 3190,
     "timeDay": 2524,
@@ -16,6 +16,7 @@
     "timeMonth": 2788,
     "timeYear": 3190,
     "dailyMinutesDown": {
+      "2023-11-16": 2,
       "2023-09-13": 26
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://fr.bam-karaokebox.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/fr.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1089,
@@ -36,6 +37,7 @@
     "timeMonth": 781,
     "timeYear": 1089,
     "dailyMinutesDown": {
+      "2023-11-16": 2,
       "2023-09-13": 26
     }
   },
@@ -44,10 +46,10 @@
     "url": "https://es.bam-karaokebox.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/es.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website-es",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1842,
@@ -56,6 +58,7 @@
     "timeMonth": 1419,
     "timeYear": 1842,
     "dailyMinutesDown": {
+      "2023-11-16": 1,
       "2023-09-13": 24
     }
   },
@@ -64,10 +67,10 @@
     "url": "https://en.bam-karaokebox.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/en.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website-en",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1824,
@@ -76,6 +79,7 @@
     "timeMonth": 1422,
     "timeYear": 1824,
     "dailyMinutesDown": {
+      "2023-11-16": 1,
       "2023-09-13": 23
     }
   },
