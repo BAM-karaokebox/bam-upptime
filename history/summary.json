@@ -310,19 +310,19 @@
     "url": "https://backend.api.bam-karaokeonline.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/backend.api.bam-karaokeonline.com.ico",
     "slug": "tsl-tsl-platform-backend-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 591,
-    "timeDay": 741,
-    "timeWeek": 586,
-    "timeMonth": 609,
-    "timeYear": 591,
+    "time": 589,
+    "timeDay": 625,
+    "timeWeek": 564,
+    "timeMonth": 602,
+    "timeYear": 589,
     "dailyMinutesDown": {
-      "2023-11-21": 1
+      "2023-11-21": 5
     }
   },
   {
