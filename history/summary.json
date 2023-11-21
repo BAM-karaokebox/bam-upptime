@@ -310,18 +310,20 @@
     "url": "https://backend.api.bam-karaokeonline.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/backend.api.bam-karaokeonline.com.ico",
     "slug": "tsl-tsl-platform-backend-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 590,
-    "timeDay": 746,
-    "timeWeek": 564,
-    "timeMonth": 605,
-    "timeYear": 590,
-    "dailyMinutesDown": {}
+    "time": 591,
+    "timeDay": 741,
+    "timeWeek": 586,
+    "timeMonth": 609,
+    "timeYear": 591,
+    "dailyMinutesDown": {
+      "2023-11-21": 1
+    }
   },
   {
     "name": "TSL / TSL Platform / Backend API (preproduction)",
