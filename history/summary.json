@@ -6,16 +6,17 @@
     "slug": "bkb-bam-karaoke-box-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 3162,
+    "time": 3163,
     "timeDay": 4245,
     "timeWeek": 3083,
     "timeMonth": 2758,
-    "timeYear": 3162,
+    "timeYear": 3163,
     "dailyMinutesDown": {
+      "2023-12-03": 7,
       "2023-09-13": 26
     }
   },
@@ -24,11 +25,11 @@
     "url": "https://fr.bam-karaokebox.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/fr.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1060,
     "timeDay": 764,
@@ -36,6 +37,7 @@
     "timeMonth": 762,
     "timeYear": 1060,
     "dailyMinutesDown": {
+      "2023-12-03": 5,
       "2023-09-13": 26
     }
   },
@@ -44,11 +46,11 @@
     "url": "https://es.bam-karaokebox.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/es.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website-es",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1802,
     "timeDay": 2397,
@@ -56,6 +58,7 @@
     "timeMonth": 1316,
     "timeYear": 1802,
     "dailyMinutesDown": {
+      "2023-12-03": 3,
       "2023-09-13": 24
     }
   },
@@ -64,10 +67,10 @@
     "url": "https://en.bam-karaokebox.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/en.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website-en",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1778,
@@ -76,6 +79,7 @@
     "timeMonth": 1340,
     "timeYear": 1778,
     "dailyMinutesDown": {
+      "2023-12-03": 2,
       "2023-09-13": 23
     }
   },
@@ -84,9 +88,9 @@
     "url": "https://fr.bam-karaokebox.com/booking?city=Paris&traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/fr.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-website-fr-booking-paris",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -96,6 +100,7 @@
     "timeMonth": 775,
     "timeYear": 848,
     "dailyMinutesDown": {
+      "2023-12-03": 0,
       "2023-09-13": 17
     }
   },
