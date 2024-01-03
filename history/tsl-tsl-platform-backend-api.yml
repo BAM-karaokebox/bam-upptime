@@ -1,7 +1,7 @@
 url: https://backend.api.bam-karaokeonline.com?traffic_type=monitoring
-status: down
-code: 503
-responseTime: 543
-lastUpdated: 2024-01-03T08:31:36.686Z
+status: up
+code: 200
+responseTime: 522
+lastUpdated: 2024-01-03T08:37:13.814Z
 startTime: 2023-05-22T14:51:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
