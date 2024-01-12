@@ -1,7 +1,7 @@
 url: https://www.tslkaraoke.com?traffic_type=monitoring
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-12T04:33:15.311Z
+status: up
+code: 200
+responseTime: 481
+lastUpdated: 2024-01-12T04:38:54.422Z
 startTime: 2023-05-22T14:51:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
