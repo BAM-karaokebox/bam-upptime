@@ -254,19 +254,19 @@
     "url": "https://www.tslkaraoke.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/www.tslkaraoke.com.ico",
     "slug": "tsl-tsl-karaoke",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 608,
-    "timeDay": 1511,
-    "timeWeek": 726,
-    "timeMonth": 644,
+    "timeDay": 996,
+    "timeWeek": 696,
+    "timeMonth": 639,
     "timeYear": 608,
     "dailyMinutesDown": {
-      "2024-01-12": 1
+      "2024-01-12": 6
     }
   },
   {
