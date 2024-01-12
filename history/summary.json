@@ -254,10 +254,10 @@
     "url": "https://www.tslkaraoke.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/www.tslkaraoke.com.ico",
     "slug": "tsl-tsl-karaoke",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 608,
@@ -265,7 +265,9 @@
     "timeWeek": 726,
     "timeMonth": 644,
     "timeYear": 608,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-12": 1
+    }
   },
   {
     "name": "TSL / TSL Karaoke (preproduction)",
