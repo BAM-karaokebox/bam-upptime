@@ -142,9 +142,9 @@
     "url": "https://backend.bam-karaokebox.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/backend.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-backoffice",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -153,7 +153,9 @@
     "timeWeek": 993,
     "timeMonth": 1101,
     "timeYear": 1147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-26": 0
+    }
   },
   {
     "name": "BKB / BAM Karaoke To Go",
