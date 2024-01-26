@@ -142,19 +142,19 @@
     "url": "https://backend.bam-karaokebox.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/backend.bam-karaokebox.com.ico",
     "slug": "bkb-bam-karaoke-box-backoffice",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1164,
-    "timeDay": 3128,
-    "timeWeek": 1546,
-    "timeMonth": 1236,
-    "timeYear": 1164,
+    "time": 1186,
+    "timeDay": 4308,
+    "timeWeek": 2115,
+    "timeMonth": 1400,
+    "timeYear": 1186,
     "dailyMinutesDown": {
-      "2024-01-26": 0
+      "2024-01-26": 4
     }
   },
   {
