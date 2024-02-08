@@ -162,18 +162,16 @@
     "slug": "bkb-bam-karaoke-to-go",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 860,
     "timeDay": 1024,
     "timeWeek": 716,
     "timeMonth": 796,
     "timeYear": 860,
-    "dailyMinutesDown": {
-      "2024-02-07": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BKB / BAM Karaoke Online",
@@ -182,18 +180,16 @@
     "slug": "bkb-bam-karaoke-online",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 11,
     "timeDay": 6,
     "timeWeek": 9,
     "timeMonth": 7,
     "timeYear": 11,
-    "dailyMinutesDown": {
-      "2024-02-07": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BKB / BAM Karaoke Online (preproduction)",
