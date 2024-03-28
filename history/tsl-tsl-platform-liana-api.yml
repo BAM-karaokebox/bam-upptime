@@ -1,7 +1,7 @@
 url: https://forest.api.bam-karaokeonline.com?traffic_type=monitoring
-status: up
-code: 200
-responseTime: 635
-lastUpdated: 2024-03-27T23:06:03.945Z
+status: down
+code: 503
+responseTime: 478
+lastUpdated: 2024-03-28T17:32:45.519Z
 startTime: 2023-05-22T14:51:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
