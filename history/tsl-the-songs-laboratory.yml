@@ -1,7 +1,7 @@
 url: https://www.thesongslaboratory.com?traffic_type=monitoring
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-09T08:30:24.092Z
+status: up
+code: 200
+responseTime: 369
+lastUpdated: 2024-04-09T08:35:11.315Z
 startTime: 2023-05-22T14:51:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
