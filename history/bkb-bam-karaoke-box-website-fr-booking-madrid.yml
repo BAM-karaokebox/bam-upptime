@@ -1,7 +1,7 @@
 url: https://fr.bam-karaokebox.com/booking?city=Madrid&traffic_type=monitoring
-status: down
-code: 401
-responseTime: 992
-lastUpdated: 2024-04-20T17:27:32.353Z
+status: up
+code: 200
+responseTime: 662
+lastUpdated: 2024-04-20T17:48:26.044Z
 startTime: 2023-05-22T14:57:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
