@@ -1,7 +1,7 @@
 url: https://es.bam-karaokebox.com?traffic_type=monitoring
-status: up
-code: 200
-responseTime: 1552
-lastUpdated: 2024-06-24T23:20:54.541Z
+status: down
+code: 500
+responseTime: 1510
+lastUpdated: 2024-06-25T08:38:44.626Z
 startTime: 2023-05-22T14:57:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
