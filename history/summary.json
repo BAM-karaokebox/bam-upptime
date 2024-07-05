@@ -276,19 +276,19 @@
     "url": "https://www.app.preprod.tslkaraoke.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/www.app.preprod.tslkaraoke.com.ico",
     "slug": "tsl-tsl-karaoke-preproduction",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 594,
-    "timeDay": 752,
-    "timeWeek": 619,
-    "timeMonth": 575,
-    "timeYear": 594,
+    "time": 595,
+    "timeDay": 783,
+    "timeWeek": 640,
+    "timeMonth": 582,
+    "timeYear": 595,
     "dailyMinutesDown": {
-      "2024-07-05": 0
+      "2024-07-05": 12
     }
   },
   {
