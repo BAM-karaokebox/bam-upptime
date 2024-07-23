@@ -238,19 +238,19 @@
     "url": "https://www.thesongslaboratory.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/www.thesongslaboratory.com.ico",
     "slug": "tsl-the-songs-laboratory",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 324,
-    "timeDay": 336,
-    "timeWeek": 253,
-    "timeMonth": 268,
+    "timeDay": 241,
+    "timeWeek": 239,
+    "timeMonth": 264,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2024-07-23": 0
+      "2024-07-23": 9
     }
   },
   {
