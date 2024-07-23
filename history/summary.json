@@ -238,9 +238,9 @@
     "url": "https://www.thesongslaboratory.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/www.thesongslaboratory.com.ico",
     "slug": "tsl-the-songs-laboratory",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -249,7 +249,9 @@
     "timeWeek": 253,
     "timeMonth": 268,
     "timeYear": 329,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-23": 0
+    }
   },
   {
     "name": "TSL / TSL Karaoke",
