@@ -400,18 +400,20 @@
     "url": "https://forest.api.staging.bam-karaokeonline.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/forest.api.staging.bam-karaokeonline.com.ico",
     "slug": "tsl-tsl-platform-liana-api-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 556,
-    "timeDay": 470,
-    "timeWeek": 618,
-    "timeMonth": 537,
-    "timeYear": 557,
-    "dailyMinutesDown": {}
+    "timeDay": 451,
+    "timeWeek": 594,
+    "timeMonth": 534,
+    "timeYear": 556,
+    "dailyMinutesDown": {
+      "2024-07-30": 1
+    }
   },
   {
     "name": "TSL / PallyCon / Multi-DRM Licence Manager",
