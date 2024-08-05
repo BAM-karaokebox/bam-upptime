@@ -166,9 +166,9 @@
     "url": "https://www.bam-karaoketogo.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/www.bam-karaoketogo.com.ico",
     "slug": "bkb-bam-karaoke-to-go",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -177,16 +177,18 @@
     "timeWeek": 796,
     "timeMonth": 832,
     "timeYear": 860,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-05": 0
+    }
   },
   {
     "name": "BKB / BAM Karaoke Online",
     "url": "https://www.bam-karaokeonline.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/www.bam-karaokeonline.com.ico",
     "slug": "bkb-bam-karaoke-online",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -195,7 +197,9 @@
     "timeWeek": 6,
     "timeMonth": 9,
     "timeYear": 10,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-05": 0
+    }
   },
   {
     "name": "BKB / BAM Karaoke Online (preproduction)",
@@ -292,10 +296,10 @@
     "url": "https://www.app.staging.tslkaraoke.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/www.app.staging.tslkaraoke.com.ico",
     "slug": "tsl-tsl-karaoke-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 606,
@@ -303,7 +307,9 @@
     "timeWeek": 591,
     "timeMonth": 622,
     "timeYear": 604,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-05": 1
+    }
   },
   {
     "name": "TSL / TSL Platform / Backend API",
@@ -401,18 +407,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/forest.api.staging.bam-karaokeonline.com.ico",
     "slug": "tsl-tsl-platform-liana-api-staging",
     "status": "down",
-    "uptime": "98.70%",
+    "uptime": "98.57%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "18.47%",
-    "uptimeMonth": "81.24%",
-    "uptimeYear": "98.44%",
+    "uptimeWeek": "9.76%",
+    "uptimeMonth": "79.23%",
+    "uptimeYear": "98.27%",
     "time": 556,
     "timeDay": 401,
     "timeWeek": 542,
     "timeMonth": 533,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2024-08-05": 20,
+      "2024-08-05": 898,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
