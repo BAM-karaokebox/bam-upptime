@@ -364,19 +364,19 @@
     "url": "https://forest.api.bam-karaokeonline.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/forest.api.bam-karaokeonline.com.ico",
     "slug": "tsl-tsl-platform-liana-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 568,
-    "timeDay": 635,
-    "timeWeek": 564,
-    "timeMonth": 579,
+    "time": 567,
+    "timeDay": 571,
+    "timeWeek": 549,
+    "timeMonth": 575,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2024-08-21": 1
+      "2024-08-21": 7
     }
   },
   {
