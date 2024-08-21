@@ -364,18 +364,20 @@
     "url": "https://forest.api.bam-karaokeonline.com?traffic_type=monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/forest.api.bam-karaokeonline.com.ico",
     "slug": "tsl-tsl-platform-liana-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 567,
-    "timeDay": 552,
-    "timeWeek": 539,
-    "timeMonth": 575,
+    "time": 568,
+    "timeDay": 635,
+    "timeWeek": 564,
+    "timeMonth": 579,
     "timeYear": 570,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-21": 1
+    }
   },
   {
     "name": "TSL / TSL Platform / Liana API (preproduction)",
